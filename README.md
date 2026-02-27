@@ -1,4 +1,4 @@
-# hello world 🚀
+# Hello world 🚀
 hi, my name is John Sebastian and im a coder in trannig. 
   
 
@@ -13,7 +13,9 @@ I'm curretly working on a bank ATM project I' am using python for support
 # My / intereset / passsion ⏱️
 I'm passionate about: 
 
-. programming 
-. video games 
-. football 
+  - programming 
+  
+  - video games 
+ 
+  - football 
 
